@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\bin\Debug\KalitimDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\bin\Debug\KalitimDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\bin\Debug\KalitimDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\obj\Debug\KalitimDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\obj\Debug\KalitimDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\OOP\Ornek Dosyalar\KalitimDemo\KalitimDemo\obj\Debug\KalitimDemo.pdb
